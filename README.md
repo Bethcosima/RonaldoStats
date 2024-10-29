@@ -12,7 +12,7 @@
 
 <h1 align='center'> Estadísticas de Cristiano Ronaldo</h1>
 
-<p align='center'><img src='img\CRISTIANORONALDOSTATS.png'></p>
+<p align='center'><img src='img/CRISTIANORONALDOSTATS.png'></p>
 
 <h1 align ='left'> INTRODUCCIÓN</h1>
 
@@ -26,7 +26,7 @@
 
 <h1 align='left'>DATOS</h1>
 
-<p align='justify'>Para realizar este proyecto se realizó el escrapeo de diferentes sitios webs, obteniendo así un datasets llamado <a href='Data\Ronaldo_processed.csv'>Ronaldo_processed.csv</a> el cuál cuenta con todos los datos necesarios para el Dashboard. En la lista de <a href='ref'>referencias</a> podemos encontrar de qué páginas fueron obtenidos estos datos
+<p align='justify'>Para realizar este proyecto se realizó el escrapeo de diferentes sitios webs, obteniendo así un datasets llamado <a href='Data/Ronaldo_processed.csv'>Ronaldo_processed.csv</a> el cuál cuenta con todos los datos necesarios para el Dashboard. En la lista de <a href='ref'>referencias</a> podemos encontrar de qué páginas fueron obtenidos estos datos
 
 <h1 align='left'>ETL</h1>
 
@@ -51,17 +51,17 @@ Cómo se puede ver en la primera barra se encuentra que tiene un gol a la edad d
 
 <p align='left'><b>Top 5 opponentes a los que anotó</b>
 
-![top5opponents](img\graph\top5opponents.png)
+![top5opponents](img/graph/top5opponents.png)
 
 <p align= 'justify'>En este gráfico mostramos el top 5 de los oponentes a los que más ha anotado, destacando que estos pertenecen a La Liga Española, podemos deducir que esto se debe a que con el Real Madrid es el equipo en que más tiempo jugó como delantero y en dónde más goles anotó en su carrera
 
-<p align= 'justify'>Estos son solo algunos de los gráficos que podemos encontrar en el <a href='ETL-EDA\EDA.ipynb'>EDA</a>
+<p align= 'justify'>Estos son solo algunos de los gráficos que podemos encontrar en el <a href='ETL-EDA/EDA.ipynb'>EDA</a>
 
 <h1 align = 'left'>DASHBOARD</h1>
 
 <p align='justify'>Se tomó la decisión de utilizar Power BI para realizar el <a href='CR7_Dashboard.pbix'>dashboard</a> de este datasets. En la siguiente imagen podemos encontrar un pequeño preview de cómo se ve la primera versión de este.
 
-![DashCR7](img\cr7dash.png)
+![DashCR7](img/cr7dash.png)
 
 <h1 align='left' id='ref'>
 REFERENCIAS
