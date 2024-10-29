@@ -12,7 +12,7 @@
 
 <h1 align='center'> Estadísticas de Cristiano Ronaldo</h1>
 
-<p align='center'><img src='img\CRISTIANO RONALDO STATS.png'></p>
+<p align='center'><img src='img\CRISTIANORONALDOSTATS.png'></p>
 
 <h1 align ='left'> INTRODUCCIÓN</h1>
 
