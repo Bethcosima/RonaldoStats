@@ -46,7 +46,7 @@
 <p align='left'><b>Outliers</b>
 <p align='justify'>Se encontró un pequeño outlier en uno de los gráficos que muestra cuántos goles anotó por edad. Dicho gráfico se muestra a continuación
 
-![Goles por edad](img\graph\byage.png)
+![Goles por edad](img/graph/byage.png)
 Cómo se puede ver en la primera barra se encuentra que tiene un gol a la edad de 16 años, al verificar en el dataset podemos encontrar que es perteneciente a su etapa en madrid, por lo que no es posible que a esa edad se presentara un gol en madrid, ya que su etapa con ellos comenzó a los 24 años, de esta formar se tomó la decisión de modificar directamente ese dato desde Power BI
 
 <p align='left'><b>Top 5 opponentes a los que anotó</b>
