@@ -20,7 +20,7 @@
 
 <p align='justify'>Otro de los grandes jugadores que nos ha dado el futbol es Cristiano Ronaldo, a quién elegí para realizar este proyecto y continuar aprendiendo de este maravilloso mundo que son los Datos.
 
-<p align='justify'>Este proyecto pretende mostrar todos los goles de Cristiano en su carrera en cada equipo que juegó, entre otras estadísticas que se pueden ver en el <a href='CR7_Dashboard.pbix'>Dashboard</a> final. 
+<p align='justify'>Este proyecto pretende mostrar todos los goles de Cristiano en su carrera en cada equipo que ha jugado, entre otras estadísticas que se pueden ver en el <a href='CR7_Dashboard.pbix'>Dashboard</a>. 
 
 <p align='justify'>Esta es una primera versión de lo que se quiere realizar, ya que aun falta realizar una base de datos, entre otras cosas que se irán actualizando con el tiempo
 
